@@ -1,0 +1,1 @@
+# Music Recommendation Demo\nContent-based demo ranks songs by sample tags using TF-IDF and cosine similarity.\n\nRun: `pip install -r requirements.txt` then `streamlit run app.py`\n
