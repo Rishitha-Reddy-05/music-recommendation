@@ -1,1 +1,0 @@
-streamlit\nnumpy\npandas\npillow\nscikit-learn\nscikit-image\n
