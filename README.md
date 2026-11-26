@@ -1,2 +1,1 @@
-# music-recommendation
-A music recommendation system using machine learning and song similarity
+# Handwritten Digit Recognition\nRandom Forest classifier on the built-in 8x8 scikit-learn digits dataset.\n\nRun: `pip install -r requirements.txt` then `streamlit run app.py`\n
